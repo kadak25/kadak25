@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadak25
-- 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently learning Selenium, Appium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kadak214@gmail.com
 
